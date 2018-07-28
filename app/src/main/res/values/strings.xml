@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="xml_addr">Address:</string>
+    <string name="xml_phone">Phone:</string>
+    <string name="xml_email">Email:</string>
+    <string name="xml_website">Website:</string>
+</resources>
