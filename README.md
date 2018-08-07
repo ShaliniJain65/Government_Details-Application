@@ -9,3 +9,5 @@ The entire application follows the Android app life cycle. Also saves the instan
 The Third Activity is about the image view of the politician which using loading image and not available image if the image of the politician is not present in JSON data fetched.
 The Internet is mandatory for this application.
 Have both landscape and Portrait Orientation designing.
+
+Used : Location Services, Picasso Library, Google API's, Textview Links, Intent.
